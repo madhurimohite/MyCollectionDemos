@@ -1,0 +1,5 @@
+package com.scp.exception;
+
+public class Student {
+
+}

@@ -1,0 +1,9 @@
+package com.scp.sorting;
+
+public class TestSorting {
+public static void main(String[] args) {
+	
+	Product p1=new Product(1,"abc",200);
+	
+}
+}

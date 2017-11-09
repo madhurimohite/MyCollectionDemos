@@ -1,0 +1,17 @@
+package com.scp.exception;
+/*
+ * 
+ */
+
+public class TestException {
+
+	 	public static void main(String[] args) throws InvalidAgeException {
+	 		 System.out.print("Score");
+
+	 	
+
+    
+	}
+
+		
+}

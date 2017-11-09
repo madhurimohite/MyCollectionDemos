@@ -1,0 +1,15 @@
+package com.scp.ExceptionDemo;
+
+public class Demo1 {
+
+	public static void main(String[] args) {
+		try {
+	    }
+		catch{
+			
+		}
+		finally {
+			
+		}
+
+}

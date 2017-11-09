@@ -1,0 +1,12 @@
+package com.scp.iterator;
+
+import java.util.Collection;
+import java.util.Iterator;
+
+public class IteratorDemo {
+  public static <T extends Collection<? extends Object>>void myIterator(T t) {
+      Iterator<Object> itr= t.iterator();
+      
+    
+  }
+}

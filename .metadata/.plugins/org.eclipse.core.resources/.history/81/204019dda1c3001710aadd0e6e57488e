@@ -1,0 +1,17 @@
+package com.scp.iterator;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.ListIterator;
+
+public class IteratorDemo {
+  public static void main(String[] args) {
+   ArrayList<Integer> al= new ArrayList<>();
+   al.add(10);
+    al.add(al);
+    al.add(20);
+
+    Iterator<Integer> litr=al.iterator();
+    while(al.hasNext)
+  }
+}

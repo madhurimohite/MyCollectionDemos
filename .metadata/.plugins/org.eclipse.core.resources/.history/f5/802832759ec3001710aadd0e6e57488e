@@ -1,0 +1,10 @@
+package com.scp.iterator;
+
+import java.util.ArrayList;
+
+public class IteratorDemo {
+  public static void main(String[] args) {
+   ArrayList<Product> al= new ArrayList<>();
+	
+ }
+}
